@@ -1,12 +1,12 @@
 body {
-    background-color: blue;
+    background-color: rgb(4, 4, 60);
 }
 .cabecalho{
 margin-bottom: 0px;
 display: flex;
 justify-content: space-around;
 align-items: center;
-border: 2px solid rgb(3, 106, 203);
+border: 2px solid rgb(8, 5, 75);
 background-image: ur1(wp9212011.jpg);
 background-size: cover;
 background-position: 50% 75%;
