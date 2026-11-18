@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+.cabecalho{
+margin-bottom: 0px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+border: 2px solid rgb(3, 106, 203);
+background-image: ur1(wp9212011.jpg);
+background-size: cover;
+background-position: 50% 75%;
+
+
+
+
+}
